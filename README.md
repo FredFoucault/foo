@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of foo is to ...
+The goal of foo is to create a simple package
 
 ## Installation
 
@@ -22,5 +22,7 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(foo)
 ## basic example code
+is_odd(1)
+is-odd(2)
 ```
 
