@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of foo is to create a simple package
+The goal of foo is to create a simple package.
 
 ## Installation
 
