@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of foo is to create a simple package.
+The goal of foo is to calculate a modulo to zero to a number in order to know it is an odd number.
 
 ## Installation
 
