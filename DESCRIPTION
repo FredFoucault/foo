@@ -5,8 +5,10 @@ Version: 0.1.0
 Author: Frederic Foucault
 Maintainer: The package maintainer <frederic.foucault@yahoo.fr>
 Description: foo package calculate the modulo of a number to show if it is odd.
-License:MIT
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
 URL: https://github.com/FredFoucault/foo
+Imports: 
+    stringr

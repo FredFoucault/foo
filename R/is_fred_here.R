@@ -1,4 +1,11 @@
-is_fred_here <- function(x) {
+#'
+#' @importFrom stringr str_detect
 
-  stringr::str_detect(x,pattern='fred')
+is_fred_here <- function(x, w) {
+
+  if (str_detect(x,pattern='fred')) {
+    return(is_odd(w))
+  } else {
+    'nothing to do'
+  }
 }
