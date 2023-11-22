@@ -19,7 +19,7 @@ devtools::install_github("FredFoucault/foo")
 
 This is a basic example which shows you how to solve a common problem:
 
-``` r
+```{r example}
 library(foo)
 ## basic example code
 is_odd(1)
