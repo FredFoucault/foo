@@ -12,5 +12,5 @@
 #'
 #' @export
 is_odd <- function(x){
-  x %%2 ==0
+  x %% 2 ==0
 }
